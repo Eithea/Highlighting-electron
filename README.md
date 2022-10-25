@@ -10,13 +10,13 @@
  - https://www.youtube.com/watch?v=59USvjy2toI
 
 
-### 사용법
+### To use
 * windows 데스크탑 앱
 ```
 npm run build-win
 ```
 
-* Server-Client 구조의 웹서비스는 현재 운영을 중단했습니다.
+* Server-Client 구조의 웹서비스는 현재 운영되고 있지 않습니다.
 
 
 
